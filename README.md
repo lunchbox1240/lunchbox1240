@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lunchbox1240
 - 👀 I’m interested in numbers, data, learning to code, continued learning.
-- 🌱 I’m currently learning SQL, Python, and R
+- 🌱 I’m currently OnBase, AI, and OCR
 - 💞️ I’m looking to collaborate on data analysis coding and research
 - 📫 How to reach me email - aaron.leupold@gmail.com
 
